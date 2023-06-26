@@ -76,7 +76,7 @@
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
 
 ## Licence
-This project is licensed under the [License Name]. See the LICENSE file for more details.
+This project is licensed under the MIT Licence. See the LICENSE file for more details.
 
 ## Contact
 If you have any questions or want to reach out, feel free to contact Georgios Kakavelakis at gekakavelakis@gmail.com.
